@@ -1,4 +1,4 @@
-export default function anySample() {
+export default function anySample(): void {
   let name: any = 'Torahack' //string型を代入
   console.log('any sample 1 :', typeof name, name)
 
